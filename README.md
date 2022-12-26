@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @seanhobeck
+- 👀 I’m interested in: Reverse Engineering ( Code Decompilation \ Obfuscation & Analysis ) and Low-Level Programming ( Operating Systems )
+- 🌱 I’m currently learning: Typescript, GNU/Linux Assembly
