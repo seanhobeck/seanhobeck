@@ -1,4 +1,4 @@
-Hi, im Sean Hobeck, im a 16 year old programmer from Ontario, Canada and have been programming for around 6 years.
+# Hi, im Sean Hobeck
 I'm currently in highschool and love working on programming projects in my spare time in class or outside of school.
 Some of the languages i mainly work with are:
 - C
