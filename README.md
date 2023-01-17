@@ -1,6 +1,5 @@
-# Hi, im Sean Hobeck
-I'm currently in highschool and love working on programming projects in my spare time in class or outside of school.
-Some of the languages i mainly work with are:
+# Hi there!
+My name is Sean Hobeck, I'm 16 and have been coding for around 6 years with experience in:
 - C
 - C++
 - C# (.NET & Mono)
