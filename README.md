@@ -13,6 +13,3 @@ And some of the languages im currently trying to learn are:
 - Rust
 
 I'm more of a low-level developer and like using simpler languages and love working with assembly and more specifically reverse engineering.
-
-
-  ![](https://komarev.com/ghpvc/?username=seanhobeck&color=blue)
