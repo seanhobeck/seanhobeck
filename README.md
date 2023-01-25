@@ -6,6 +6,7 @@
 - Java
 - Python3
 - Typescript
+- Turing
 
 🌱 I'm currently trying to learn:
 - x86 Assembly (SIMD specifically)
