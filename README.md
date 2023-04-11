@@ -9,7 +9,7 @@
 - Turing
 
 🌱 I'm currently trying to learn:
-- x86 Assembly (SIMD specifically)
-- Rust
+- x86 Assembly
+- SIMD & Intrinsics
 
 I'm more of a low-level developer and like using simpler languages and love working with assembly and more specifically reverse engineering.
