@@ -12,4 +12,4 @@
 🌱 I'm currently trying to learn:
 - SIMD & Intrinsics
 
-I'm more of a low-level developer and like using simpler languages and love working with assembly and more specifically reverse engineering.
+I'm more of a low-level developer and like using simpler languages and love working with assembly, more specifically reverse engineering.
