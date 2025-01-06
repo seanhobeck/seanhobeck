@@ -1,8 +1,8 @@
 # Hi, there 👋
-📖 My name is Sean Hobeck, I'm 17 and have been coding for around 7 years with experience in:
+📖 My name is Sean Hobeck, I'm 18 and have been coding for around 7 years with experience in:
 - C
 - C++
-- x86 Assembly
+- x86_64 Assembly
 - C# (.NET & Mono) along with some MSIL
 - Java
 - Python
