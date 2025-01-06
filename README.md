@@ -1,5 +1,5 @@
 # Hi, there 👋
-📖 My name is Sean Hobeck, I'm 18 and have been coding for around 7 years with experience in:
+📖 My name is Sean Hobeck, I'm 18 and have been coding for around 8 years with experience in:
 - C
 - C++
 - x86_64 Assembly
