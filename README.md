@@ -13,3 +13,6 @@
 - SIMD & Intrinsics
 
 I'm more of a low-level developer and like using simpler languages and love working with assembly, more specifically reverse engineering.
+
+![seanhobeck's github stats](https://github-readme-stats.vercel.app/api?username=seanhobeck&show_icons=true&theme=tokyonight)
+[![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanhobeck&theme=tokyonight&layout=donut)](https://github.com/seanhobeck/github-readme-stats)
