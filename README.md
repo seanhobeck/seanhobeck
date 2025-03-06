@@ -11,6 +11,7 @@
 
 🌱 I'm currently trying to learn:
 - SIMD & Intrinsics
+- LLVM IR (intermediate representation)
 
 I'm more of a low-level developer and like using simpler languages and love working with assembly, more specifically reverse engineering.
 
