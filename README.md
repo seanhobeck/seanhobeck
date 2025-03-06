@@ -14,4 +14,4 @@
 
 I'm more of a low-level developer and like using simpler languages and love working with assembly, more specifically reverse engineering.
 
-![seanhobeck's github stats](https://github-readme-stats.vercel.app/api?username=seanhobeck&show_icons=true&theme=tokyonight)
+![seanhobeck's github stats](https://github-readme-stats.vercel.app/api?username=seanhobeck&show_icons=true&theme=gruvbox)
