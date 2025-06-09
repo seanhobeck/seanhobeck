@@ -2,17 +2,18 @@
 📖 My name is Sean Hobeck, I'm 18 and have been coding for around 8 years with experience in:
 - C
 - C++
-- x86_64 Assembly
-- C# (.NET & Mono) along with some MSIL
+- C# (.NET & Mono, with MSIL / CIL)
+- x86_64 and x86 assembly (GCC or NASM)
 - Java
 - Python
 - Typescript
-- Turing
+- OpenTuring
 
 🌱 I'm currently trying to learn:
-- SIMD & Intrinsics
+- SIMD & Intrinsics (AVX512, SSE4.2)
 - LLVM IR (intermediate representation)
+- Bootloading, and Operating Systems
 
-I'm more of a low-level developer and like using simpler languages and love working with assembly, more specifically reverse engineering.
+I'm a low-level developer and love working with assembly, even more so when reverse engineering.
 
 ![seanhobeck's github stats](https://github-readme-stats.vercel.app/api?username=seanhobeck&show_icons=true&theme=apprentice)
