@@ -1,5 +1,5 @@
 # Hi, there 👋
-📖 My name is Sean Hobeck, I'm 18 and have been coding for around 8 years with experience in:
+📖 My name is Sean Hobeck, I'm 19 and have been coding for around 8 years with experience in:
 - C
 - C++
 - C# (.NET & Mono, with MSIL / CIL)
